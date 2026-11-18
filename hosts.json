@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "rev": "f2e73c8a68aa3c5db64d9e489c9b249c346e72bb",
+  "rev": "c20745bb4d13cc41546f6cfb86cf8bc6bf3ac0d6",
   "hosts": {
     "mistylake": {
-      "outPath": "/nix/store/cvnv2977na8h56hxz0sk487k8pa48gxg-nixos-system-mistylake-26.11.20261111.d4f25a3",
-      "rev": "f2e73c8a68aa3c5db64d9e489c9b249c346e72bb"
+      "outPath": "/nix/store/8ki3vh299wlfwq62g6n47s3g6hhc063i-nixos-system-mistylake-26.11.20261111.d4f25a3",
+      "rev": "c20745bb4d13cc41546f6cfb86cf8bc6bf3ac0d6"
     },
     "mistypuddle": {
       "outPath": "/nix/store/sh5adijx4lhj120p5114x578h6d99f70-nixos-system-mistypuddle-26.11.20261111.d4f25a3",
       "rev": "f2e73c8a68aa3c5db64d9e489c9b249c346e72bb"
     },
     "mistyriver": {
-      "outPath": "/nix/store/ldqplvmsvg7s6ldx1kn14hafcqwkq5br-nixos-system-mistyriver-26.11.20261111.d4f25a3",
-      "rev": "f2e73c8a68aa3c5db64d9e489c9b249c346e72bb"
+      "outPath": "/nix/store/dwkzbmq4i0y19srsr6h2wid8ydnz314v-nixos-system-mistyriver-26.11.20261111.d4f25a3",
+      "rev": "c20745bb4d13cc41546f6cfb86cf8bc6bf3ac0d6"
     }
   }
 }
